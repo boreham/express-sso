@@ -1,0 +1,9 @@
+{
+    "realm": "elephant",
+    "auth-server-url": "https://192.168.8.149/",
+    "resource": "exp-client",
+    "credentials": {
+        "secret": "your-client-secret"
+    },
+    "confidential-port": 0
+}
