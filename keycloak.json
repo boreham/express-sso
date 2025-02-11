@@ -1,7 +1,7 @@
 {
-    "realm": "elephant",
-    "auth-server-url": "https://192.168.8.149/",
-    "resource": "exp-client",
+    "realm": "example",
+    "auth-server-url": "https://localhost:8080/",
+    "resource": "example-client",
     "credentials": {
         "secret": "your-client-secret"
     },
